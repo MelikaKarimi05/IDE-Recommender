@@ -10,7 +10,7 @@ while True:
     print("recommended IDE:vscode,webstorm")
  elif language=="php":
     print("recommended IDE:php storm,vs code")
- elif language=="php":
+ elif language=="c#":
     print("recommended IDE:visual studio,rider")
  else:
     print("language not found! ")
